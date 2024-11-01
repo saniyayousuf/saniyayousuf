@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+🔭 I’m currently working on React, Vue and Laravel.
+🌱 I’m currently learning C++, React Native and python
 <!--
 **saniyayousuf/saniyayousuf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
